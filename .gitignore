@@ -1,0 +1,7 @@
+__pycahce__
+.idea
+venv
+__pycache__/app.cpython-311.pyc
+models
+deploy.bat
+dockerfile.txt
