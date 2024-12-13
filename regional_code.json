@@ -376,6 +376,9 @@
     "^[YZ][A-Z]$": "Kabupaten Lumajang",
     "default": "Malang, Probolinggo, Batu, Pasuruan, Lumajang"
   },
+  "L": {
+    "default": "Kota Surabaya"
+  },
   "P": {
     "^[ABCD][A-Z]$": "Kabupaten Bondowoso",
     "^[EFGHIJ][A-Z]$": "Kabupaten Situbondo",
